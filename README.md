@@ -10,7 +10,7 @@ Bienvenidos a mi pagina, soy Desarrollador Full Stack, me gustan los grandes ret
 
 :white_check_mark: Compromiso.
 
-  Tecnologias en conocimiento:
+ # Tecnologias en conocimiento:
   
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
