@@ -30,7 +30,7 @@ Bienvenidos a mi pagina, soy Desarrollador Full Stack, me gustan los grandes ret
 
 # Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lusferror&theme=tokyonight)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lusferror&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusferror&exclude_repo=flask_api_todos,instagram_modeling,Flask_1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
