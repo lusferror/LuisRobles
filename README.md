@@ -11,7 +11,6 @@ Proactivo, enfocado, leal, con dinamismo y versatilidad, capaz de liderar y con 
   ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-  ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lusferror)](https://git.io/streak-stats)
