@@ -28,9 +28,8 @@ Bienvenidos a mi pagina, soy Desarrollador Full Stack, me gustan los grandes ret
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
   ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 
-
+# Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lusferror)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusferror&exclude_repo=flask_api_todos,instagram_modeling,Flask_1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Puedes encontrarme en: </h3>
