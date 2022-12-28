@@ -1,6 +1,9 @@
 # LuisRobles
 
-Bienvenidos a mi pagina, soy Desarrollador Full Stack, me gustan los grandes retos, nuevos desafios, con mucha hambre de apredizaje. Valores principales: disciplina, perseverancia, constancia y compromiso.
+Bienvenidos a mi pagina, soy Desarrollador Full Stack, me gustan los grandes retos, nuevos desafios, con mucha hambre de apredizaje. Valores principales: :cyclone:Disciplina
+:muscle:Perseverancia
+:loop:Constancia
+:white_check_mark:Compromiso.
 
   Tecnologias en conocimiento:
   
