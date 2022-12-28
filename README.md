@@ -7,11 +7,9 @@ Proactivo, enfocado, leal, con dinamismo y versatilidad, capaz de liderar y con 
  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
   ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
   ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 
