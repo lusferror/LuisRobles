@@ -2,13 +2,13 @@
 
 Bienvenidos a mi pagina, soy Desarrollador Full Stack, me gustan los grandes retos, nuevos desafios, con mucha hambre de apredizaje. Valores principales:
 
-:cyclone:Disciplina
+:cyclone: Disciplina
 
-:muscle:Perseverancia
+:muscle: Perseverancia
 
-:loop:Constancia
+:loop: Constancia
 
-:white_check_mark:Compromiso.
+:white_check_mark: Compromiso.
 
   Tecnologias en conocimiento:
   
